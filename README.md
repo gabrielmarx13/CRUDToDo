@@ -1,5 +1,5 @@
 # CRUDToDo
-CMPSC487W Project 1
+CMPSC487W Project 2
 
 Powered by:
 -JavaScript/HTML/CSS
