@@ -83,6 +83,13 @@ var newlist = list
         }}></input>
       </div>
 
+      <div>
+        <span>Search: </span>
+        <input onChange={(event) => {
+            setSearchState(() => event.target.value)
+        }}></input>
+      </div>
+
     </div>
 
 
